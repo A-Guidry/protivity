@@ -199,7 +199,7 @@ export class ChatFakeDb
                 {
                     'who'    : '5725a680b3249760ea21de52',
                     'message': 'Sure, we will get them laid out.',
-                    'time'   : '2019-03-22T09:08:58.299Z'
+                    'time'   : '2019-03-22T09:08:56.299Z'
                 },
                 {
                     'who'    : '5725a6802d10e277a0f35724',

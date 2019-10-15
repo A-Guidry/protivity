@@ -33,7 +33,7 @@ export const navigation: FuseNavigation[] = [
                 icon     : 'email',
                 url      : '/apps/mail',
                 badge    : {
-                    title    : '15',
+                    title    : '5',
                     translate: 'NAV.MAIL.BADGE',
                     bg       : '#F44336',
                     fg       : '#FFFFFF'

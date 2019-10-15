@@ -8,7 +8,7 @@ export const locale = {
             'ACADEMY'     : 'Academy',
             'MAIL'        : {
                 'TITLE': 'Mail',
-                'BADGE': '15'
+                'BADGE': '5'
             },
             
             'CHAT'        : 'Chat',
